@@ -1,7 +1,6 @@
 # Comandos comuns do git
 
 - `git init:` cria um novo repositório Git
-
 - `git clone:` copia um repositório Git existente.
 - `git status:` mostra o estado atual do repositório Git
 - `git add:`  Adiciona arquivos ao índice.
